@@ -1,0 +1,10 @@
+The Matrix|8.7|98
+Inception|8.8|95
+Interstellar|8.6|92
+The Godfather|9.2|97
+Pulp Fiction|8.9|90
+Shawshank Redemption|9.3|96
+The Dark Knight|9.0|99
+Fight Club|8.8|94
+Forrest Gump|8.8|93
+The Lord of the Rings: The Return of the King|9.0|91
